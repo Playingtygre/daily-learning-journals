@@ -1,0 +1,21 @@
+# LJ Code 201 - Day 3
+
+Well I got and finished the first week!. These are almost ten hour study days.
+Today was very hard for me because I had never learned a new concept before.
+the lab assignment had something as follows....
+
+function test(a,b,c){
+  return [a,b,c]
+}
+
+test (4,2,3)[0];
+
+I ended up having to copy someone else's code because I could not figure out how
+to display the results correctly when calling the function in the return.
+I may have seen this before but I don't remember every practicing it.
+
+Thankfully, one of the TA Lizebeth was able to help me understand the concept
+a bit better. As well as an older lady sitting next to me, she was able to
+walk me line by line to explain the code and what I am performing.
+
+-tiger 
