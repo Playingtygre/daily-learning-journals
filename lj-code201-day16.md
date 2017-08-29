@@ -1,12 +1,17 @@
 # LJ Code 201 - Day 16
 
-So, today was an interesting start, got together with our group and started to hash
-out different ideas and committed to different step.
+So initially there were some hiccups and some very high tensions. This is a very robust group
+of smart thinking individuals. This is also a very dynamic and its members that are in this group
+that have many different ideas in the way which we approach things.
+There also may have been one or two times that several members in our
+group has fought and gotten into an argument.
 
-This week I started off weak feeling that I might have failed this course.
-I am not sure if I can finish strong with the group.
+My group dynamic is strange; there are two individuals whom are both stubborn and
+strong minded get into small verbal arguments. This is almost evident by other groups whom
+noticed us raising our voices.
 
-Currently there were some interpersonal problems that happened but I feel as tho we
-have hashed it our properly, but we should have settled down property.
+I'm not the one whom decides to get confront and individual; but when we all attempt
+at being a democracy one individual votes their option get throw out, individuals
+feel the need to comment on each other and check out.
 
 -Tiger H
