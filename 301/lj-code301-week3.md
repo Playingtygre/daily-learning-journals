@@ -1,0 +1,6 @@
+﻿# LJ Code 301 - Week 3/4
+
+Week 4 started. Finally over headed into the second part of course. These weeks are slow but I do like the pace of things. One last week on the December 18 JB had shown us all about postgres SQL which I think a majority of folks in the classroom loved. Part of what we had learned last week was utilizing the JSON and AJAX code skills some of which I have never done. Most likely I will need to practice it a bit more in the near future if I want to become more competant coder. One big thing that I did learn that I never thought before was during the Kilovolt blog there is a server.js file that has functions passed into it which allows me to build into psql which is something I have never seen before. This is very exciting to me, the function is called articleloader which takes in parameters of the hackeripsum.json file. I never knew that this existed, most likely I want to study and understand how this JSON file works better. 
+
+Also this past week I had gotten my first one on one with JB which was encouraging. He had told me that during the first time some people see code not to get flustered to understand it but to grasp the overall concept and practice in time will be able to help me become a better overall developer. 
+
